@@ -19,11 +19,11 @@ pip3 install PIL
 Rahim Malik (rahimm@andrew.cmu.edu)
 
 ### ❤️ Special Thanks
-Gleb Ryabtsev for TP mentorship
+Gleb Ryabtsev for TP mentorship<br/>
 Mike Taylor for TP ideation
 
 ### 🔗 References
-https://stackoverflow.com/questions/27161533/find-the-shortest-distance-between-a-point-and-line-segments-not-line
+https://stackoverflow.com/questions/27161533/find-the-shortest-distance-between-a-point-and-line-segments-not-line<br/>
 Mike Taylor's Ball Physics Demo
 
 ### 👾 Sprites
